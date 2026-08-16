@@ -1,67 +1,62 @@
 <div align="center">
 
-  <!-- Minimalist Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=11,15,30&height=180&section=header&text=IMAN%20BAYAT&fontSize=50&fontAlign=50&fontAlignY=45&desc=.NET%20%26%20AI%20Software%20Architect&descSize=18&descAlign=50&descAlignY=68&animation=twinkling" width="100%" />
+  <!-- Animated Header Banner (Purple/Violet Theme) -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,15,20&height=220&section=header&text=Hey%20there,%20I'm%20Iman!&fontSize=42&fontAlignY=38&animation=twinkling" width="100%" />
 
-  <br />
+  <!-- Animated 3D Floating Shapes & Cubes -->
+  <br/>
+  <p align="center">
+    <img src="https://raw.githubusercontent.com/andreasbm/readme-icons/master/assets/3d/cube.gif" width="70px" alt="3D Cube" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3Z2cGtrOHFsaXZ3bjFydnRrcWZhZTVyZHFyb2R1Njlrd2NqdGk5ciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/u0S4YvhEEIqJ6g9UqO/giphy.gif" width="90px" alt="Purple Interactive Cube" />
+    &nbsp;&nbsp;&nbsp;&nbsp;
+    <img src="https://raw.githubusercontent.com/andreasbm/readme-icons/master/assets/3d/sphere.gif" width="70px" alt="3D Sphere" />
+  </p>
 
-  <!-- Dynamic Typing Subtitle -->
+  <!-- Animated Typing Effect (Blazor & AI Skills) -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=818CF8&center=true&vCenter=true&width=600&lines=Building+Reactive+Blazor+Web+Apps;Integrating+Semantic+Kernel+%26+Local+LLMs;Architecting+.NET+9+Backend+Systems" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=.NET+9+%26+Blazor+Web+Apps;Building+Local+AI+Agents+%26+Semantic+Kernel;ASP.NET+Core+%26+RAG+Architectures;Full-Stack+Web+%26+System+Integration" alt="Typing SVG" />
   </a>
+
+  <br /><br />
+
+  <!-- Tech Stack Badges (Featuring Blazor & AI Stack) -->
+  <p align="center">
+    <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
+    <img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
+    <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Semantic_Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
+    <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  </p>
 
 </div>
 
-<br/>
-
-### 🛠️ Tech Stack & Ecosystem
-
-<table align="center" width="100%">
-  <tr>
-    <td width="33%" valign="top" align="center">
-      <h4>Core & Backend</h4>
-      <img src="https://img.shields.io/badge/C%23_13-239120?style=flat-square&logo=csharp&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/.NET_9-512BD4?style=flat-square&logo=dotnet&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Blazor_WASM-512BD4?style=flat-square&logo=blazor&logoColor=white"/>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h4>AI & Intelligence</h4>
-      <img src="https://img.shields.io/badge/Semantic_Kernel-0078D4?style=flat-square&logo=microsoft&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/RAG_Pipelines-4F46E5?style=flat-square&logo=openai&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Local_LLM_Agents-0D9488?style=flat-square&logo=cpu&logoColor=white"/>
-    </td>
-    <td width="33%" valign="top" align="center">
-      <h4>Data & DevOps</h4>
-      <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=flat-square&logo=microsoft-sql-server&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/><br/>
-      <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
 ---
 
-### 💻 Developer Profile
+### ⚡ About Me
 
 ```csharp
-namespace Profile.Overview;
-
-public record Developer
+public class Developer
 {
-    public string Name { get; init; } = "Iman Bayat";
-    public string Role { get; init; } = "Software Developer";
-    public string PrimaryFocus { get; init; } = ".NET 9, Blazor Web Apps & Semantic Kernel Integration";
-
-    public string[] Expertise { get; init; } = 
-    [
-        "High-performance C# / .NET backend services",
-        "Reactive single-page web frontends using Blazor",
-        "Local RAG systems and autonomous AI agent workflows",
-        "Relational database design and EF Core ORM optimization"
-    ];
-
-    public string GetStatus() => "Building modern full-stack web and AI solutions.";
+    public string Name { get; } = "Iman Bayat";
+    public string Specialization { get; } = ".NET 9 & Blazor Web Applications";
+    
+    public string[] TechStack { get; } = 
+    { 
+        "Blazor WebAssembly / Server", 
+        "Semantic Kernel & Ollama", 
+        "RAG Architecture & Local LLMs", 
+        "ASP.NET Core Web APIs", 
+        "SQL Server & Entity Framework Core" 
+    };
+    
+    public string CurrentFocus() 
+    {
+        return "Architecting reactive Blazor frontends backed by local AI agents.";
+    }
 }
