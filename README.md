@@ -6,7 +6,7 @@
   <br/><br/>
 
   <!-- Embedded Vector Animation SVG -->
-  <img src="https://raw.githubusercontent.com/imanbayat8989/imanbayat8989/main/cubes.svg" width="100%" alt="Dark Purple Cubes Vector Animation" />
+  <img src="./cubes.svg" width="100%" alt="Dark Purple Cubes Vector Animation" />
 
   <br/><br/>
 
