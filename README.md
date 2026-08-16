@@ -1,59 +1,57 @@
 <div align="center">
 
-  <!-- Animated Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,12,15,20&height=220&section=header&text=Hey%20there,%20I'm%20Iman!&fontSize=42&fontAlignY=38&animation=twinkling" width="100%" />
+  <!-- Cyberpunk Neon Header Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=slice&color=gradient&customColorList=0:00F0FF,25:7000FF,75:FF007F,100:0D0221&height=220&section=header&text=%E2%9A%A1%20SYSTEM.INIT%20%3A%3A%20IMAN_BAYAT%20%E2%9A%A1&fontSize=38&fontAlignY=38&animation=twinkling" width="100%" />
 
-  <br/><br/>
+  <br/>
 
-  <!-- Embedded Vector Animation SVG -->
-  <img src="./cubes.svg" width="100%" alt="Dark Purple Cubes Vector Animation" />
-
-  <br/><br/>
-
-  <!-- Animated Typing Effect -->
+  <!-- Terminal Typing Effect -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=23&pause=1000&color=A855F7&center=true&vCenter=true&width=650&lines=.NET+9+%26+Blazor+Web+Apps;Building+Local+AI+Agents+%26+Semantic+Kernel;ASP.NET+Core+%26+RAG+Architectures;Full-Stack+Web+%26+System+Integration" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Share+Tech+Mono&weight=700&size=22&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=%3E_INITIALIZING_NEURAL_LINK...;%3E_.NET_9_+_BLAZOR_REACTIVE_HUDS;%3E_SEMANTIC_KERNEL_+_LOCAL_AI_AGENTS;%3E_RAG_PIPELINES_+_HIGH_SPEED_WEB_APIS" alt="Cyber Terminal Typing" />
   </a>
 
-  <br /><br />
+  <br/><br/>
 
-  <!-- Tech Stack Badges -->
+  <!-- Cyberware / Tech Stack Badges -->
   <p align="center">
-    <img src="https://img.shields.io/badge/Blazor-512BD4?style=for-the-badge&logo=blazor&logoColor=white" />
-    <img src="https://img.shields.io/badge/.NET_9-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
-    <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
-    <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+    <img src="https://img.shields.io/badge/CORE-.NET_9-00F0FF?style=for-the-badge&logo=dotnet&logoColor=black" />
+    <img src="https://img.shields.io/badge/HUD-BLAZOR_WASM-7000FF?style=for-the-badge&logo=blazor&logoColor=white" />
+    <img src="https://img.shields.io/badge/LANG-C%23_13-00FF66?style=for-the-badge&logo=csharp&logoColor=black" />
+    <img src="https://img.shields.io/badge/ENGINE-ASP.NET_CORE-FF007F?style=for-the-badge&logo=dotnet&logoColor=white" />
   </p>
   <p align="center">
-    <img src="https://img.shields.io/badge/Semantic_Kernel-0078D4?style=for-the-badge&logo=microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" />
-    <img src="https://img.shields.io/badge/SQL_Server-CC292B?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+    <img src="https://img.shields.io/badge/NEURAL-SEMANTIC_KERNEL-00F0FF?style=for-the-badge&logo=microsoft&logoColor=black" />
+    <img src="https://img.shields.io/badge/AI_CORE-OLLAMA-FF007F?style=for-the-badge&logo=ollama&logoColor=white" />
+    <img src="https://img.shields.io/badge/DATA-SQL_SERVER-7000FF?style=for-the-badge&logo=microsoft-sql-server&logoColor=white" />
+    <img src="https://img.shields.io/badge/CONTAINER-DOCKER-00FF66?style=for-the-badge&logo=docker&logoColor=black" />
   </p>
 
 </div>
 
 ---
 
-### ⚡ About Me
+### ─── [ ⚡ NEURAL INTERFACE HUD ] ───
 
 ```csharp
-public class Developer
+// STATUS :: ONLINE | PROTOCOL :: HIGH_PERFORMANCE
+namespace Cybermind.Systems;
+
+public class Operator : HumanInterface
 {
-    public string Name { get; } = "Iman Bayat";
-    public string Specialization { get; } = ".NET 9 & Blazor Web Applications";
+    public string Handle { { get; } } = "Iman Bayat";
+    public string Clearance { { get; } } = "Level 9 System Architect";
     
-    public string[] TechStack { get; } = 
-    { 
-        "Blazor WebAssembly / Server", 
-        "Semantic Kernel & Ollama", 
-        "RAG Architecture & Local LLMs", 
-        "ASP.NET Core Web APIs", 
-        "SQL Server & Entity Framework Core" 
-    };
-    
-    public string CurrentFocus() 
+    public string[] InstalledCyberware { { get; } } = new[]
     {
-        return "Architecting reactive Blazor frontends backed by local AI agents.";
+        "Blazor WebAssembly / Reactive HUD Interfaces",
+        "Semantic Kernel Neural Matrix & Tool Calling",
+        "Local Ollama / RAG Offline Intelligence Cores",
+        "ASP.NET Core Ultra-Low Latency REST/gRPC APIs",
+        "SQL Server & Entity Framework Memory Stores"
+    };
+
+    public async Task<SystemState> ExecutePrimaryDirectiveAsync()
+    {
+        return await ConstructNextGenAIArchitectures();
     }
 }
